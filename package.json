@@ -1,0 +1,45 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "DbQuery est un module de gestion des bd local et sauvegarde en ligne",
+  "main": "dbquery.module.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XcoderDJOUE/DBQuery.git"
+  },
+  "keywords": [
+    "db",
+    "base",
+    "de",
+    "donnee",
+    "electron",
+    "db",
+    "angular",
+    "db",
+    "db",
+    "local",
+    "base",
+    "de",
+    "donnee",
+    "local",
+    "angular",
+    "sauvegarde",
+    "local",
+    "ftp",
+    "data",
+    "base",
+    "query",
+    "nodejs",
+    "db",
+    "nodejs"
+  ],
+  "author": "Djouekan Man-houvie joel armel",
+  "license": "SytheQ",
+  "bugs": {
+    "url": "https://github.com/XcoderDJOUE/DBQuery/issues"
+  },
+  "homepage": "https://github.com/XcoderDJOUE/DBQuery#readme"
+}
